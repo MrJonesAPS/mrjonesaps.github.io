@@ -1,0 +1,31 @@
+body {background-color: bisque;}
+p {color:red; font-size:150%}
+ul.partsOfADuck {
+    font-size:120%;
+    color:blue;
+    font-family:fantasy
+}
+a {font-size:120%}
+img {width:100px}
+nav {
+    display: flex; /* 1 */
+    justify-content: space-between; /* 2 */
+    padding: 0px 0px; /* 3 */
+    background: #cfd8dc; /* 4 */
+}
+nav h2 {
+    margin: 0px 0px;
+}
+nav ul {
+    display: flex; /* 5 */
+    list-style: none; /* 6 */
+    margin: 0px 0px;
+}
+
+nav li {
+    padding-left: 1rem; /* 7! */
+}
+
+table, th, td {
+    border: 1px solid;
+}
