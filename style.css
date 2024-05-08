@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(96, 96, 151);
+}
+h1{
+    color: red;
+}
+table, th, td{
+    border: 2px dashed black;
+    text-align: center;
+}
