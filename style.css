@@ -1,10 +1,15 @@
 body{
-    background-color: rgb(96, 96, 151);
+    background-color: #deeaee;
 }
 h1{
-    color: red;
+    color: rgb(3, 3, 3);
 }
 table, th, td{
     border: 2px dashed black;
     text-align: center;
+}
+
+/*Add a new CSS code that changes the color of the paragraph text*/
+p {
+    color:rgb(44, 18, 122);
 }
